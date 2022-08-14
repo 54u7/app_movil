@@ -1,2 +1,0 @@
-C:\Users\admin\source\repos\TareaAppDcu.slc\TareaAppDcu\TareaAppDcu\obj\Debug\netstandard2.0\TareaAppDcu.csproj.AssemblyReference.cache
-C:\Users\admin\source\repos\TareaAppDcu.slc\TareaAppDcu\TareaAppDcu\obj\Debug\netstandard2.0\TareaAppDcu.GeneratedMSBuildEditorConfig.editorconfig
